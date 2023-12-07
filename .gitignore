@@ -1,0 +1,14 @@
+*.xdv
+*.run.xml
+*.out
+*.log
+*.fls
+*.fdb_latexmk
+*.blg
+*.bcf
+*.bbl
+*.aux
+.DS_Store
+*.log
+*.gz
+*.dvi
