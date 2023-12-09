@@ -1,4 +1,4 @@
-# My Academic job application materials &mdash; Fall 2023
+# My Fall 2023 Academic job application materials
 
 Here lie the documents I wrote and prepared for my academic job applications during Fall 2023. Are these good examples? We'll know by April 2024 if I get a job based on these &mdash; but everyone's tired advice to ```#network``` is hilariously true in academia. You'll get a job mostly based on who you know, who knows you, *how* they know you, and what you've done (your CV). 
 
