@@ -12,4 +12,4 @@ There are 4 documents in this repository:
 Some disclaimers and what you can do with these:
 - I applied (mostly) to **Linguistic and Computer Science departments in the USA**. 
 - Feel free to steal any *ideas* in content or style from these statements. I hope they help you.
-- All the LaTeX templates are up on [my ```texmf``` repository]() &mdash; steal what you like, or use them wholesale.
+- All the LaTeX templates are up on [my ```texmf``` repository](https://github.com/venkatasg/texmf) &mdash; steal what you like, or use them wholesale.
