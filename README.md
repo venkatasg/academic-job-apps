@@ -12,5 +12,7 @@ But writing a nice set of statements might help, so here are 4 documents that ev
 Some quick notes:
 - I applied (mostly) to **Linguistic and Computer Science departments in the USA**. 
 - Feel free to steal any *ideas* in content or style from these statements. I hope they help you.
+- Tailoring the statements to each department is probably a waste of time. Just make sure you change the names of departments/schools in different applications &mdash; you don't want to seem sloppy.
+- Use [Interfolio Dossier](https://www.interfolio.com/dossier/) to send recommendation letters &mdash; personalized recommendation letters are probably a waste of time too. Moreover, your advisors and professors are terminally busy and they'll appreciate not receiving constant reminders to submit the same PDF for every job application. 
 - All the LaTeX templates are up on [my ```texmf``` repository](https://github.com/venkatasg/texmf) &mdash; steal what you like, or use them wholesale.
 - My CV is also [available on GitHub](https://github.com/venkatasg/CV), as is [my résumé](https://github.com/venkatasg/resume).
