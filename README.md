@@ -6,7 +6,7 @@ But writing a nice set of statements might help, so here are 4 documents that ev
 
 - **Cover Letter**
 - **Research Statement**: Writing in terms of themes of my research until now, and themes moving forward helped me draft this statement.
-- **Teaching Statement**: Useful if applying to liberal arts schools in the US. Most research schools might not even read this, so if you're only applying to those don't sweat it. Unless you actually care about and enjoy teaching, which I did.
+- **Teaching Statement**: Useful if applying to liberal arts schools in the US. Most research schools might not even read this, so if you're only applying to those don't sweat it. Unless you actually care about and enjoy teaching, which I do, but beware that most research schools don't😒.
 - **Diversity Statement**: I find it helps to be *concrete* in terms of real-life examples of how you have helped diversify your teaching/research, and how you will moving forward. 
 
 Some quick notes:
